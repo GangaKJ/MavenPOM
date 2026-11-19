@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import base.BaseTest;
 import pageObjects.LoginPageObject;
 
-public class Logintest extends BaseTest{
+public class LoginTest extends BaseTest{
 	
 	@Test
 	public void validLogin()
